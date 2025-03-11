@@ -1,5 +1,5 @@
-# ECOR CMS
-**ECOR-CMS** is a Complaint Management System developed for the **East Coast Railway Department** during my internship. The system allows users to submit complaints, track their status, and enables admins to manage and resolve them efficiently.
+# Complaint Management System
+I have developed a **Complaint Management System**  for the **East Coast Railway Department** during my internship. The system allows users to submit complaints, track their status, and enables admins to manage and resolve them efficiently.
 
 ---
 
