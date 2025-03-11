@@ -71,32 +71,19 @@ Edit
 http://localhost:3000
 
  # Usage
-- Submit a Complaint
+ #Submit a Complaint
 Fill out the complaint form and submit it.
 A unique complaint ID will be generated for tracking.
-- View Complaints
+#View Complaints
 Log in to view the status of submitted complaints.
--  Admin Management
+#Admin Management
 View all complaints.
 Forward complaints to specific admins.
 Add remarks and close complaints as needed.
 Delete complaints if necessary.
-- API Endpoints
-# Method Endpoint Description
-GET	/users	Fetch all users with usertype as 'User'.
-POST	/complaints	Submit a new complaint.
-GET	/all-complaints	Fetch all complaints.
-GET	/complaints	Fetch complaints by employee number.
-GET	/complaint	Fetch complaint details by complaint number or employee number.
-GET	/complaints/:complaintNo/remarks	Fetch remarks for a specific complaint.
-POST	/complaints/:complaintNo/remarks	Add a remark to a specific complaint.
-GET	/admins	Fetch admin users.
-📂 Project Structure
-bash
-Copy
-Edit
+#API Endpoints
 
-complaint-management-system/
+# complaint-management-system
 ├── public/                  # Frontend files
 │   ├── home.html
 │   ├── login.html
