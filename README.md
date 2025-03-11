@@ -11,65 +11,52 @@ ECOR-CMS is a Complaint Management System developed for the East Coast Railway D
 - Contributing
 - License
 
-# Features
---User registration and login
--- Submit complaints with file uploads
--- View submitted complaints and their status
--- Admin dashboard to view and manage complaints
--- Forward complaints to specific admins
--- Add remarks to complaints
--- Delete complaints
--- Dynamic admin list fetching
+## Features
+- User registration and login
+- Submit complaints with file uploads
+- View submitted complaints and their status
+- Admin dashboard to view and manage complaints
+- Forward complaints to specific admins
+- Add remarks to complaints
+- Delete complaints
+- Dynamic admin list fetching
 
- # Technologies Used
-Backend:
-Node.js
-Express.js
-MongoDB
-Mongoose
-Frontend:
-HTML
-CSS
-JavaScript
-Other:
-File Uploads: Multer
-Authentication: bcrypt, express-session
+ ## Technologies Used
+- Backend:
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- Frontend:
+- HTML
+- CSS
+- JavaScript
+## Other:
+- File Uploads: Multer
+- Authentication: bcrypt, express-session
 
-# Installation
-1. Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/complaint-management-system.git
-cd complaint-management-system
-2. Install dependencies
-bash
-Copy
-Edit
-npm install
-3. Set up MongoDB
-Ensure MongoDB is installed and running.
-Create a database named main server and a collection named complaints.
-4. Configure environment variables
-Create a .env file in the root directory and add:
+## Installation
+### Clone the repository
+- git clone https://github.com/yourusername/complaint-management-system.git
+- cd complaint-management-system
+### Install dependencies
+- npm install
+### Set up MongoDB
+- Ensure MongoDB is installed and running.
+- a database named main server and a collection named complaints.
 
-plaintext
-Copy
-Edit
+### Configure environment variables
+#### Create a .env file in the root directory and add:
 PORT=3000  
 SESSION_SECRET=your-secret-key  
-6. Start the server
-bash
-Copy
-Edit
-npm start
-7. Open in browser
-Navigate to:
 
-plaintext
-Copy
-Edit
-http://localhost:3000
+### Start the server
+
+- npm start
+## Open in browser
+### Navigate to:
+
+#### http://localhost:3000
 
  # Usage
  #Submit a Complaint
