@@ -16,14 +16,14 @@
 ---
 
 ## 🚀 Features  
-✅ User registration and login  
-✅ Submit complaints with file uploads  
-✅ View submitted complaints and their status  
-✅ Admin dashboard to view and manage complaints  
-✅ Forward complaints to specific admins  
-✅ Add remarks to complaints  
-✅ Delete complaints  
-✅ Dynamic admin list fetching  
+- User registration and login  
+- Submit complaints with file uploads  
+- View submitted complaints and their status  
+- Admin dashboard to view and manage complaints  
+- Forward complaints to specific admins  
+- Add remarks to complaints  
+- Delete complaints  
+- Dynamic admin list fetching  
 
 ---
 
@@ -152,4 +152,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-This version is clean, professional, and structured for easy readability on GitHub. Let me know if you’d like to adjust anything! 😎
