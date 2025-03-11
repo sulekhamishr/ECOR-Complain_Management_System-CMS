@@ -51,8 +51,9 @@ PORT=3000
 SESSION_SECRET=your-secret-key  
 
 ### Start the server
+```
+npm start
 
-- npm start
 ## Open in browser
 ### Navigate to:
 
